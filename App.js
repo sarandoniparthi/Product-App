@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import { ProductDisplay } from './Product/ProductDisplay';
+import { ProductDisplay } from '/Product/ProductDisplay';
 
 export class App extends Component {
   constructor(props) {

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import {ProductTableRow} from './Product/ProductTableRow';
+import {ProductTableRow} from '/Product/ProductTableRow';
 
 
 export class ProductTable extends Component {

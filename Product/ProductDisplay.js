@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import  {ProductTable}  from "./Product/ProductTable"
-import  {ProductEditor}  from "./Product/ProductEditor";
+import  {ProductTable}  from "/Product/ProductTable"
+import  {ProductEditor}  from "/Product/ProductEditor";
 
 export class ProductDisplay extends Component {
   constructor(props) {
